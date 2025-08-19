@@ -205,4 +205,5 @@ Examples of nextflow output:
 [c7/065171] process > ADD_AF (test_split-multiallelic-masked-filtered.sample_qc.vcf.bgz) [100%] 1 of 1 ✔
 ```
 Go to /work/34/34b365 and you'll find the index file created (if already provided as input) as temporary files. 
+
 Go to /work/c7/065171 for the final files of the pipeline. 
